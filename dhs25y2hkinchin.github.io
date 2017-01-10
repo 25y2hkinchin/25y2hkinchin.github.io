@@ -11,7 +11,7 @@
     <p>My name is Chin Kin.</p>
     <p>I am a 14 year old student in <a href="dunmanhigh.moe.edu.sg">Dunman High School</a>, Singapore</p>
     <h2>Interests</h2>
-    <p>I am interested in gaming, playing soccer and eating.</p> <https://www.easports.com/fifa/frostbite>
+    <p>I am interested in eating, playing soccer and playing Fifa.<a href="https://www.easports.com/fifa/frostbite"></p>
     <h2>Projects</h2>
     <p> I am a Google Code-in 2016 participant with <a href="http://fossasia.org">FOSSASIA</a></p>
     
